@@ -16,7 +16,7 @@ import FeatureCard from "../../../widgets/main/FeatureCard";
 import { useFeatures } from "../../../shared/model/Features";
 import { useInfoCards } from "../../../shared/model/InfoCards";
 import InfoComponent from "../../../widgets/general/InfoComponent";
-import { NavLink } from "react-router";
+import { NavLink } from "react-router-dom";
 import app_store from "../../../assets/main/app_store.svg";
 import google_play from "../../../assets/main/google_play.svg";
 import banner_iphone_uz from "../../../assets/main/banner_iphone_uz.svg";

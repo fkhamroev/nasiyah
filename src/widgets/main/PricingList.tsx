@@ -1,4 +1,4 @@
-import { NavLink } from "react-router";
+import { NavLink } from "react-router-dom";
 import Check from "../../assets/main/check_circle.svg";
 import X from "../../assets/main/x_circle.svg";
 

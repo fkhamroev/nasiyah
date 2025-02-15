@@ -1,6 +1,6 @@
 import { useTranslation } from "react-i18next";
 import logo from "../../assets/logo/logo.svg";
-import { NavLink } from "react-router";
+import { NavLink } from "react-router-dom";
 import app_store from "../../assets/footer/app_store.svg";
 import google_play from "../../assets/footer/google_play.svg";
 
